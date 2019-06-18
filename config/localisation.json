@@ -4626,6 +4626,87 @@
         }
       ]
     },
+    "LB": {
+      "name": "Lebanon",
+      "bank_holidays": [
+        {
+          "date": "2019-06-04",
+          "name": "Fitr Feast Day 1"
+        },
+        {
+          "date": "2019-06-05",
+          "name": "Fitr Feast Day 2"
+        },
+        {
+          "date": "2019-08-12",
+          "name": "Adha Feast Day 1"
+        },
+        {
+          "date": "2019-08-13",
+          "name": "Adha Feast Day 2"
+        },
+        {
+          "date": "2019-08-14",
+          "name": "Adha Feast Day 3"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "All Saints Day"
+        },
+        {
+          "date": "2019-11-6",
+          "name": "Islamic New Year"
+        },
+        {
+          "date": "2019-11-22",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2020-01-01",
+          "name": "New Year"
+        },
+        {
+          "date": "2019-11-22",
+          "name": "Ashoura"
+        },
+        {
+          "date": "2020-01-06",
+          "name": "Orthodox American Christmas"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas"
+        },
+        {
+          "date": "2020-01-25",
+          "name": "Prophet's Birthday"
+        },
+        {
+          "date": "2020-02-20",
+          "name": "Easter Sunday"
+        },
+        {
+          "date": "2020-02-26",
+          "name": "Orthodox Easter"
+        },
+        {
+          "date": "2020-05-01",
+          "name": "Labor Day"
+        },
+        {
+          "date": "2020-05-06",
+          "name": "Martyr's Day"
+        },
+        {
+          "date": "2020-05-25",
+          "name": "Resistance & Liberation Day"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Assumption Day"
+        }
+      ]
+    },
     "MC": {
       "name": "Monaco",
       "bank_holidays": [
