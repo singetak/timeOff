@@ -1,13 +1,15 @@
 {
-  "allow_create_new_accounts" : true,
+  "allow_create_new_accounts" : false,
   "send_emails"              : false,
-  "application_sender_email" : "info@interactivelife.com",
+  "application_sender_email" : "noreply@interactivelife.com",
   "email_transporter" : {
-    "host" : "localhost",
-    "port" : 25,
+    "host" : "smtp.gmail.com",
+    "port" : 465,
+    "secure": true,
+    "ignoreTLS": true,
     "auth" : {
-      "user" : "user",
-      "pass" : "pass"
+      "user" : "",
+      "pass" : ""
     }
   },
   "ga_analytics_on" : false,
